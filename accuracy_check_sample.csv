@@ -1,0 +1,51 @@
+﻿content,themes,correct (1 or 0),reason if 0
+Extremely bad service.,other,1,
+"There are numerous notifications to update the app, but there is no update in app store",notifications,0,"update-prompt complaint, not late/missing trip alerts"
+Only good for initial one month don't show any details anymore,positive_or_other,1,
+Worst app,other,1,
+there is a lot of problems like rating should not show on every time and no show options,no_show,1,
+Useless not recomended,other,1,
+Hi team I'm facing issue from yesterday I'm updating the app yesterday evng after update app was not opened can u plz help me plz,other,0,app not opening after update; app_bugs fits
+Unable to download the app,other,1,
+doesn't work fine with my phone. never get updates on map when the driver moves. suddenly the car seems to travel 10km diagonally.,tracking_eta|cab_ops,1,
+Pathetic experience. App does not work as expected.,other,1,
+"Inside the app, if you give good review for the trip, it accepted and when you give bad review, it do not get submit, and Why review is not optional.???",positive_or_other,1,
+When a cab is nearby and while tracking we need to zoom in maps. It is very annoying to zoom in everytime after 5 seconds as it gets zoomed out to display the route.,tracking_eta|cab_ops,1,
+I can't log in I'm not getting otp to log in,login_otp,1,
+whenever the driver call us the audio is not clear,cab_ops,1,
+Very bad,other,1,
+Doesn't load at times,other,0,'doesn't load'; app_bugs fits
+Not working properly as it has technical issue,app_bugs,1,
+I try to login to this app but it's not sending any otp to login without login how we can use this app 😤😤😤 technical team please check once about this issue,login_otp,1,
+Worst app. Doesn't give proper time.,other,0,inaccurate time/ETA; tracking_eta fits
+"an app, that is a waste of time.",other,1,
+OTP requirement each time when I log into the app is tedious.,login_otp,1,
+Every update is a headache for the end user,other,0,update/UI-change complaint; ux_changes fits
+"Pathetic tracking. Sometimes cab shows very far in app and doesn't move at all, but in reality the cab is very near to your pickup point.",tracking_eta,1,
+"when opening the app it says ""opps"" something went wrong. pls try again. Uninstall it before still the same.",other,0,'something went wrong' error; app_bugs fits
+The app is not showing the expected waiting time for the cab to arrive in Real Time by considering the current traffic in the route.,cab_ops,0,ETA/waiting-time accuracy; tracking_eta fits better than cab_ops
+Unable to schedule book,booking,1,
+Please stop excessively notifying for Play Store reviews after every ride. It's wasting user time by repeated clicks.,notifications,0,"too many rating prompts, not late alerts"
+worst app,other,1,
+"not good, needs a lot of improvement",positive_or_other,1,
+For booking and cancelation timing is very worst.,booking,1,
+Unable to login in the App. Both Mobile Otp and Email OTP options are not working,login_otp|app_bugs,1,
+"Please add a features that the driver won't be able to click the ""trip completed"" if the trip is not completed yet. We the passengers cannot track down the whereabouts of the driver if he click the trip completed though it just started. This is manipulation.",tracking_eta|cab_ops,1,
+worst app. Transport team never picked my phone. Driver picks the as per his convenience. No option to call other cab mates. Time mentioned in app. is never accurate.,cab_ops,1,
+Poor service,other,1,
+Option to show how many boarded was much better,other,1,
+poor app maintenance and management.,other,1,
+"Live track not in sync, no option to contact in case of emergency",tracking_eta,1,
+Not tracking women's are safely reached at home. I'm booked Adoc car the car was not picked up me left out me at morning 3.30 am aslo I'm book are regular 1.30 schedule roster was not yet displayed. .,tracking_eta|booking|safety,1,
+Extremely slow. Requires number of attempts to open every day despite updating app and restarting phone. Pathetic experience,app_bugs,1,
+Unable to download the app after uninstalling,other,1,
+Unable to login into the device. After entering the mobile num its returns ti same page,login_otp,1,
+"Please provide cab booking facility within the application and ""Call the Cab driver"" never work. I always get error- No trip is scheduled.",booking|app_bugs|cab_ops,1,
+Trip history doesn't show updated immediately.,other,0,trip history not updating; app_bugs fits
+App is not working after update,app_bugs,1,
+worst experience no updates available,other,1,
+Worst,other,1,
+Unable to open the app not connecting to the internet,other,0,unable to open app; app_bugs fits
+"Company Parking Booking experience is really sad, doesn't show SUV slots ever and no way to block others from booking SUV slots if they don't have SUV or have Hatchbacks. Some serious bugs which never clears the waitlist despite tons of SUV slots visible to others .",booking|app_bugs,1,
+unable to sign in,login_otp,1,
+There's no track the bus option which is really inconvenient,tracking_eta,1,
